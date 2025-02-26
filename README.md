@@ -17,9 +17,10 @@
 
 ### 📊 GitHub Stats & Streaks:
 
-![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-guizot&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=radical)
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-guizot&show_icons=true&theme=great_gatsby)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=great_gatsby)
 
+---
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-sadino-guizot-14541559/)
