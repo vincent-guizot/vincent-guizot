@@ -17,8 +17,7 @@
 
 ### 📊 GitHub Stats & Streaks:
 
-![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-guizot&show_icons=true&theme=great_gatsby)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=great_gatsby)
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-guizot&show_icons=true&theme=great-gatsby)
 
 ---
 
