@@ -111,35 +111,31 @@ Breaking down complex problems into simple and effective solutions.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
+<table>
+<tr>
+<td width="50%" align="center">
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=vincent-guizot&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-  height="170"
-/>
+### 🔥 GitHub Streak
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=tokyonight&hide_border=true&border_radius=12"
-  height="170"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=tokyonight&hide_border=true"
+  width="100%"
 />
 
-</div>
+</td>
 
----
+<td width="50%" align="center">
 
-# 📈 Contribution Activity
-
-<div align="center">
+### 📈 Contribution Activity
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-guizot&theme=tokyo-night&hide_border=true&radius=12"
-  width="95%"
+  width="100%"
 />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
