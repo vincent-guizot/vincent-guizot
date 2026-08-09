@@ -4,12 +4,17 @@
 
 ### 🚀 Front End Developer & IT Trainer
 
-I build modern web applications and help developers  
-turn ideas into real products.
+I build modern web applications and help developers turn ideas into real products.
+
+**10+ years in IT · 15+ years in teaching & mentoring**
+
+Building software. Sharing knowledge. Helping developers grow.
 
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
@@ -117,7 +122,7 @@ Breaking down complex problems into simple and effective solutions.
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=github-dark-blue&hide_border=true&border_radius=12"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=navy-blue&hide_border=true&border_radius=12"
   height="170"
 />
 
@@ -130,7 +135,7 @@ Breaking down complex problems into simple and effective solutions.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-guizot&theme=github-dark-blue&hide_border=true&radius=12"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-guizot&theme=tokyo-night&hide_border=true&radius=12"
   width="95%"
 />
 
