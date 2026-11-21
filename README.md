@@ -19,21 +19,13 @@ Building software. Sharing knowledge. Helping developers grow.
 
 ## About Me
 
-- Full stack developer focused on **React, Next.js, Node.js, and PostgreSQL**
-- IT trainer and mentor with 15+ years of teaching experience
-- Interested in product engineering, education technology, and practical AI
-- Based in Jakarta, Indonesia
+I am a Full Stack Developer and IT Trainer based in Jakarta, Indonesia, with more than 10 years of experience in information technology and 15+ years in teaching and mentoring. I enjoy turning ideas into practical digital products and teaching developers how to build reliable, maintainable applications with modern technologies such as React, Next.js, Node.js, and PostgreSQL.
 
 ---
 
-## Featured Projects
+## What I Build
 
-| Project | Description |
-| --- | --- |
-| [EduAtlas](https://github.com/vincent-guizot/edu-atlas) | Indonesia education analytics and data visualization platform |
-| [ReadVibe Core Desk](https://github.com/vincent-guizot/readvibe-core_desk) | Smart reading ecosystem with React, Next.js, Express, PostgreSQL, and Gemini AI |
-| [Fresh Meadow Dairy](https://github.com/vincent-guizot/fresh-meadow-dairy) | Farm-to-table dairy commerce and operational management platform |
-| [Terra Interface](https://github.com/vincent-guizot/terra-interface) | Personal home operating system for independent homestead management |
+I build responsive web applications, REST APIs, analytics dashboards, and backoffice systems, with a focus on education technology, practical AI, and user-friendly interfaces. I also mentor learners and teams through real-world projects, from system design and implementation to testing and deployment.
 
 ---
 
