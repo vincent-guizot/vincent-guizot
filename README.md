@@ -67,9 +67,20 @@ I build responsive web applications, REST APIs, analytics dashboards, and backof
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Vincent's GitHub contribution streak" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-guizot&theme=tokyo-night&hide_border=true&radius=12" width="95%" alt="Vincent's contribution activity graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-guizot&theme=radical&hide_border=true&border_radius=12" width="100%" alt="Vincent's GitHub contribution streak" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-guizot&theme=react&hide_border=true&radius=12" width="100%" alt="Vincent's contribution activity graph" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
